@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/eDelBlog/static/css/main.756af292.css",
-    "main.js": "/eDelBlog/static/js/main.5daa86ef.js",
+    "main.css": "/eDelBlog/static/css/main.75f3a359.css",
+    "main.js": "/eDelBlog/static/js/main.78f90585.js",
     "static/js/787.b39203de.chunk.js": "/eDelBlog/static/js/787.b39203de.chunk.js",
+    "static/media/slider1.jpeg": "/eDelBlog/static/media/slider1.29292bd527315ecb516e.jpeg",
+    "static/media/slider2.jpeg": "/eDelBlog/static/media/slider2.2c2c7f6a6fe57072d690.jpeg",
+    "static/media/slider3.jpeg": "/eDelBlog/static/media/slider3.6b077ffda557f6a76646.jpeg",
+    "static/media/404.png": "/eDelBlog/static/media/404.b12d6094b6ce97be730c.png",
+    "static/media/slider4.jpeg": "/eDelBlog/static/media/slider4.4a9bb3c6d997b47e4656.jpeg",
     "static/media/logo.svg": "/eDelBlog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/eDelBlog/index.html",
-    "main.756af292.css.map": "/eDelBlog/static/css/main.756af292.css.map",
-    "main.5daa86ef.js.map": "/eDelBlog/static/js/main.5daa86ef.js.map",
+    "main.75f3a359.css.map": "/eDelBlog/static/css/main.75f3a359.css.map",
+    "main.78f90585.js.map": "/eDelBlog/static/js/main.78f90585.js.map",
     "787.b39203de.chunk.js.map": "/eDelBlog/static/js/787.b39203de.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.756af292.css",
-    "static/js/main.5daa86ef.js"
+    "static/css/main.75f3a359.css",
+    "static/js/main.78f90585.js"
   ]
 }
